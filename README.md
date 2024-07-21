@@ -2,9 +2,15 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kuldeep!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kuldeep+Singh!;&center=true&size=30">
   </a>
 </h1>
+
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated GIF" width="480" height="auto" style="max-width: 100%; height: auto;"/>
+</p>
+
 
 
 <!-- about me -->
@@ -39,31 +45,18 @@
 <br />
 <div align="center">
   <a href="https://linkedin.com/in/kuldeep-singh-39704316b/" target="_blank">
-    <img src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Priyansh's Linkedin handle" title="Linkedin" style="width: 130px; height: 45px; border-radius: 15px; border: 2px solid #ddd;"/>
+    <img src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Kuldeep's Linkedin handle" title="Linkedin" style="width: 130px; height: 45px; border-radius: 15px; border: 2px solid #ddd;"/>
   </a> 
   <a href="https://leetcode.com/iamkuldeep" target="_blank">
-    <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="Priyansh's LeetCode handle" title="LeetCode" style="width: 130px; height: 45px; border-radius: 15px; border: 2px solid #ddd;"/>
+    <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="Kuldeep's LeetCode handle" title="LeetCode" style="width: 130px; height: 45px; border-radius: 15px; border: 2px solid #ddd;"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/iamkuldeep" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="Priyansh's GFG handle" title="GeeksforGeeks" style="width: 130px; height: 45px; border-radius: 15px; border: 2px solid #ddd;"/>
+  <a href="https://www.geeksforgeeks.org/user/iamkuldeep/" target="_blank">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="Kuldeep's GFG handle" title="GeeksforGeeks" style="width: 130px; height: 45px; border-radius: 15px; border: 2px solid #ddd;"/>
   </a>
   <a href="https://codeforces.com/profile/986893ks" target="_blank">
-    <img src="https://codeforces.org/s/37681/images/codeforces-logo.png" alt="Priyansh's Codeforces handle" title="Codeforces" style="width: 130px; height: 45px; border-radius: 15px; border: 2px solid #ddd;"/>
+    <img src="https://codeforces.org/s/37681/images/codeforces-logo.png" alt="Kuldeep's Codeforces handle" title="Codeforces" style="width: 130px; height: 45px; border-radius: 15px; border: 2px solid #ddd;"/>
   </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br />
 
@@ -71,7 +64,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamkuldeep05&show_icons=true&locale=en" alt="iamkuldeep05" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkuldeep05&theme=dark" alt="iamkuldeep05" />
 </div>
