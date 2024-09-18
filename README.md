@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Animated GIF" width="480" height="auto" style="max-width: 100%; height: auto;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Animated GIF" width="480" height="auto" style="max-width: 100%; height: auto;"/>
 </p>
 
 
